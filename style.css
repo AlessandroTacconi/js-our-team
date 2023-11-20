@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.titolo {
+  text-align: center;
+}
+
+#team {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  justify-content: center;
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+body {
+  background-color: lightskyblue;
+}
+
+.sfondo {
+  background-color: blanchedalmond;
+  padding-bottom: 1rem;
+  margin: 0;
+  color: gray;
+  border-bottom-right-radius: 30px;
+  border-top-left-radius: 30px;
+}
+
+.immagine {
+  margin-bottom: 1rem;
+  border-top-left-radius: 30px;
+}
