@@ -89,5 +89,3 @@ for (let i = 0; i < team.length; i++) {
   container.classList.add('sfondo');
   img.classList.add('immagine');
 }
-
-img / wayne - barnett - founder - ceo.jpg;
